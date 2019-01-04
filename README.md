@@ -9,6 +9,6 @@ Over 24 hours we developed a prototype of an app that could predict electric veh
 <div style=""><img src ="https://github.com/averagemarcin/Hackathons/blob/master/Hackathon1.jpg" /></div>
 (Me, Dylan, Sergey)
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-(https://www.youtube.com/watch?v=U6YBg70hosQ)
+[![First hackathon video](https://github.com/averagemarcin/Hackathons/blob/master/video1.jpg)](xhttps://www.youtube.com/watch?v=U6YBg70hosQ)
+

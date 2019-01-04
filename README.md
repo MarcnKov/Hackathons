@@ -10,5 +10,5 @@ Over 24 hours we developed a prototype of an app that could predict electric veh
 (Me, Dylan, Sergey)
 
 
-[![First hackathon video](https://github.com/averagemarcin/Hackathons/blob/master/video1.jpg)](xhttps://www.youtube.com/watch?v=U6YBg70hosQ)
+[![App presentation](https://github.com/averagemarcin/Hackathons/blob/master/video1.png)](https://www.youtube.com/watch?v=U6YBg70hosQ)
 

@@ -7,7 +7,8 @@ Over 24 hours we developed a prototype of an app that could predict electric veh
  
  
 <div style=""><img src ="https://github.com/averagemarcin/Hackathons/blob/master/Hackathon1.jpg" /></div>
-<center>Me, Dylan, Sergeey</center>
+<p align="Me, Dylan, Sergeey">
+</p>
 
 
 [![App presentation](https://github.com/averagemarcin/Hackathons/blob/master/video1.png)](https://www.youtube.com/watch?v=U6YBg70hosQ)

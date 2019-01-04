@@ -5,8 +5,10 @@ was the first hackathon I ever participated. Besides great hacking, managing, co
 
 Over 24 hours we developed a prototype of an app that could predict electric vehicle range (left to go) taken into the accunt various pararameters e.g. weather conditions, incline, battery pack size, etc.. 
  
-![alt text]
+ 
+<div style=""><img src ="https://github.com/averagemarcin/Hackathons/blob/master/Hackathon1.jpg" /></div>
+(Me, Dylan, Sergey)
 
-<div style="(Me, Dylan, Sergey)"><img src ="https://github.com/averagemarcin/Hackathons/blob/master/Hackathon1.jpg" /></div>
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-![image alt text](https://www.youtube.com/watch?v=U6YBg70hosQ)
+(https://www.youtube.com/watch?v=U6YBg70hosQ)

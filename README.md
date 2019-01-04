@@ -7,7 +7,7 @@ Over 24 hours we developed a prototype of an app that could predict electric veh
  
  
 <div style=""><img src ="https://github.com/averagemarcin/Hackathons/blob/master/Hackathon1.jpg" /></div>
-var centerText = require('center-text');
+<p style="text-align: center;"> </p>
 centerText('Me, Dylan, Sergeey');
 
 

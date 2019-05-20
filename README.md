@@ -51,13 +51,17 @@ Therefore, we've developed easy to use and interactie supply chain management ap
 <br/>
 
 
-
+<br/>
 <div align="center">
  <b>Related app presentation video on YT</b> 
 </div>
+<br/>
+
  [![Short app presentation](https://github.com/averagemarcin/Hackathons/blob/master/Hackathon2.png)](https://tcrn.ch/2Vn66Ly)
- (Timestamp : [57:40] - our presentation)
  </div>
+ <br/>
+ (Timestamp : [57:40] - our presentation)
+<br/>
 
 
 

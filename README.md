@@ -42,6 +42,10 @@ Therefore, we've developed easy to use and interactie supply chain management ap
 <br/>
 
 <br/>
+[Application presentation](https://docs.google.com/presentation/d/1oQHzjHq8hdHBBS4-dr-YVW_YbWyHlbWi12YRASgQvG0/edit?usp=sharing)
+<br/>
+
+<br/>
  
 <div style=""><img src ="https://github.com/averagemarcin/Hackathons/blob/master/Team2.jpg" /></div>
 <div align="center">

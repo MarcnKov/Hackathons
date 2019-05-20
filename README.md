@@ -43,16 +43,16 @@ Therefore, we've developed easy to use and interactie supply chain management ap
 
 <br/>
  
-<div style=""><img src ="https://github.com/averagemarcin/Hackathons/blob/master/Hackathon1.jpg" /></div>
+<div style=""><img src ="https://github.com/averagemarcin/Hackathons/blob/master/Team2.jpg" /></div>
 <div align="center">
- <b> Me, Dylan, Sergeey </b>
+ <b> Artem, Me</b>
 </div>
 <br/><br/><br/>
 <br/>
 
 
 <div align="center">
- <b>Related app presentation video on YT</b> 
+ <b>Related app presentation video on TC</b>  [![Short app presentation](https://github.com/averagemarcin/Hackathons/blob/master/Hackathon2.png)](https://tcrn.ch/2Vn66Ly)
 </div>
 
 

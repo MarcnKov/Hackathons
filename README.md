@@ -35,10 +35,26 @@ Over 24 hours we've developped an application to keep track of the mining produc
 
 Therefore, we've developed easy to use and interactie supply chain management app. On the top of that, we've implemented "insights" solution that would allow to get updates of the products during its supply chain. For example, we know that metal ore chemical consistuency should remain constant during its whole supply chain. In case, if metal ore batch would accidently be changed or falsly identified for another metal ore batch, our algorithm would notify specific department concerned with the issue.  
 
-Besides great hacking, coding and networking experience our team composed of Dylan Maryk ([Dylan's GitHub](https://github.com/dylanmaryk)) and Sergey Smagleev ([Sergeey's GitHub](https://github.com/sergeysmagleev)) has won the second place in general category.
 <br/>
 
 <br/>
-
 [Terminus - source code](https://gitlab.com/techcrunch-hackathon-at-vivatech-19/eramet/f/terminus.git)
 <br/>
+
+<br/>
+ 
+<div style=""><img src ="https://github.com/averagemarcin/Hackathons/blob/master/Hackathon1.jpg" /></div>
+<div align="center">
+ <b> Me, Dylan, Sergeey </b>
+</div>
+<br/><br/><br/>
+<br/>
+
+
+<div align="center">
+ <b>Related app presentation video on YT</b> 
+</div>
+
+
+
+

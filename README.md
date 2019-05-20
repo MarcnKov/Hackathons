@@ -41,8 +41,9 @@ Therefore, we've developed easy to use and interactie supply chain management ap
 [Terminus - source code](https://gitlab.com/techcrunch-hackathon-at-vivatech-19/eramet/f/terminus.git)
 <br/>
 
+
 <br/>
-[Application presentation](https://docs.google.com/presentation/d/1oQHzjHq8hdHBBS4-dr-YVW_YbWyHlbWi12YRASgQvG0/edit?usp=sharing)
+![Short app presentation](https://docs.google.com/presentation/d/1oQHzjHq8hdHBBS4-dr-YVW_YbWyHlbWi12YRASgQvG0/edit?usp=sharing)
 <br/>
 
 <br/>

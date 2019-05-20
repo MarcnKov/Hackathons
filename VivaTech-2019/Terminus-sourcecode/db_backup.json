@@ -1,0 +1,343 @@
+{
+    "batches": [
+      {
+        "id": "22",
+        "weight": 100,
+        "stage": "Plant",
+        "start": "1.05.2019",
+        "complete": "10.05.2019",
+        "departments": [
+          {
+            "name": "Mining",
+            "data": [
+              {
+                "name": "Location",
+                "value": "New Caledonia",
+                "latlong": {
+                  "latitude": -22.2579093,
+                  "longitude": 166.4275356
+                }
+              },
+              {
+                "name": "Field",
+                "value": "Doniambo"
+              },
+              {
+                "name": "Crystallography",
+                "values": [
+                  "Limonite - 40%",
+                  "Garnierite - 30%",
+                  "Limestone - 40%",
+                  "Others - 25%"
+                ]
+              },
+              {
+                "name": "Chemistry",
+                "values": [
+                  "Ni - 20 %",
+                  "C - 2 %",
+                  "Si - 0.3 - 2.1 %",
+                  "Cr - 0.05 %"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Transfering",
+            "data": [
+              {
+                "name": "Shipping number",
+                "value": "350"
+              },
+              {
+                "name": "Shipping route",
+                "value": "ARG - NRG"
+              }
+            ]
+          },
+          {
+            "name": "Plant",
+            "data": [
+              {
+                "name": "Crystallography",
+                "values": [
+                  "Limonite - 35%",
+                  "Garnierite - 30%",
+                  "Limestone - 35%",
+                  "Others - 25%"
+                ]
+              },
+              {
+                "name": "Chemistry",
+                "values": [
+                  "Ni - 20 %",
+                  "C - 2 %",
+                  "Si - 0.3 - 2.1 %",
+                  "Cr - 0.05 %"
+                ]
+              }
+            ]
+          }
+        ],
+        "is_observing": true
+      },
+      {
+        "id": "23",
+        "weight": 110,
+        "stage": "Mininig",
+        "start": "3.05.2019",
+        "complete": "In Progress",
+        "is_observing": true,
+        "departments": [
+          {
+            "name": "Mining",
+            "data": [
+              {
+                "name": "Location",
+                "value": "New Caledonia",
+                "latlong": {
+                  "latitude": -22.2579093,
+                  "longitude": 166.4275356
+                }
+              },
+              {
+                "name": "Field",
+                "value": "Doniambo"
+              },
+              {
+                "name": "Crystallography",
+                "values": [
+                  "Limonite - 40%",
+                  "Garnierite - 30%",
+                  "Limestone - 40%",
+                  "Others - 25%"
+                ]
+              },
+              {
+                "name": "Chemistry",
+                "values": [
+                  "Ni - 20 %",
+                  "C - 2 %",
+                  "Si - 0.3 - 2.1 %",
+                  "Cr - 0.05 %"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Transfering",
+            "data": []
+          },
+          {
+            "name": "Plant",
+            "data": []
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "weight": 100,
+        "stage": "Plant",
+        "start": "4.05.2019",
+        "complete": "9.05.2019",
+        "is_observing": true,
+        "departments": [
+          {
+            "name": "Mining",
+            "data": [
+              {
+                "name": "Location",
+                "value": "New Caledonia",
+                "latlong": {
+                  "latitude": -22.2579093,
+                  "longitude": 166.4275356
+                }
+              },
+              {
+                "name": "Field",
+                "value": "Doniambo"
+              },
+              {
+                "name": "Crystallography",
+                "values": [
+                  "Limonite - 40%",
+                  "Garnierite - 30%",
+                  "Limestone - 40%",
+                  "Others - 25%"
+                ]
+              },
+              {
+                "name": "Chemistry",
+                "values": [
+                  "Ni - 20 %",
+                  "C - 2 %",
+                  "Si - 0.3 - 2.1 %",
+                  "Cr - 0.05 %"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Transfering",
+            "data": [
+              {
+                "name": "Shipping number",
+                "value": "350"
+              },
+              {
+                "name": "Shipping route",
+                "value": "ARG - NRG"
+              }
+            ]
+          },
+          {
+            "name": "Plant",
+            "data": [
+              {
+                "name": "Crystallography",
+                "values": [
+                  "Limonite - 35%",
+                  "Garnierite - 30%",
+                  "Limestone - 35%",
+                  "Others - 25%"
+                ]
+              },
+              {
+                "name": "Chemistry",
+                "values": [
+                  "Ni - 20 %",
+                  "C - 2 %",
+                  "Si - 0.3 - 2.1 %",
+                  "Cr - 0.05 %"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "weight": 130,
+        "stage": "Transfering",
+        "start": "5.05.2019",
+        "complete": "In Progress",
+        "is_observing": true,
+        "departments": [
+          {
+            "name": "Mining",
+            "data": [
+              {
+                "name": "Location",
+                "value": "New Caledonia",
+                "latlong": {
+                  "latitude": -22.2579093,
+                  "longitude": 166.4275356
+                }
+              },
+              {
+                "name": "Field",
+                "value": "Doniambo"
+              },
+              {
+                "name": "Crystallography",
+                "values": [
+                  "Limonite - 40%",
+                  "Garnierite - 30%",
+                  "Limestone - 40%",
+                  "Others - 25%"
+                ]
+              },
+              {
+                "name": "Chemistry",
+                "values": [
+                  "Ni - 20 %",
+                  "C - 2 %",
+                  "Si - 0.3 - 2.1 %",
+                  "Cr - 0.05 %"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Transfering",
+            "data": [
+              {
+                "name": "Shipping number",
+                "value": "350"
+              },
+              {
+                "name": "Shipping route",
+                "value": "ARG - NRG"
+              }
+            ]
+          },
+          {
+            "name": "Plant",
+            "data": []
+          }
+        ]
+      },
+      {
+        "id": "26",
+        "weight": 110,
+        "stage": "Transfering",
+        "start": "6.05.2019",
+        "complete": "In Progress",
+        "is_observing": true,
+        "departments": [
+          {
+            "name": "Mining",
+            "data": [
+              {
+                "name": "Location",
+                "value": "New Caledonia",
+                "latlong": {
+                  "latitude": -22.2579093,
+                  "longitude": 166.4275356
+                }
+              },
+              {
+                "name": "Field",
+                "value": "Doniambo"
+              },
+              {
+                "name": "Crystallography",
+                "values": [
+                  "Limonite - 40%",
+                  "Garnierite - 30%",
+                  "Limestone - 40%",
+                  "Others - 25%"
+                ]
+              },
+              {
+                "name": "Chemistry",
+                "values": [
+                  "Ni - 20 %",
+                  "C - 2 %",
+                  "Si - 0.3 - 2.1 %",
+                  "Cr - 0.05 %"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Transfering",
+            "data": [
+              {
+                "name": "Shipping number",
+                "value": "350"
+              },
+              {
+                "name": "Shipping route",
+                "value": "ARG - NRG"
+              }
+            ]
+          },
+          {
+            "name": "Plant",
+            "data": []
+          }
+        ]
+      }
+    ]
+  }

@@ -60,7 +60,9 @@ Therefore, we've developed easy to use and interactie supply chain management ap
  [![Short app presentation](https://github.com/averagemarcin/Hackathons/blob/master/Hackathon2.png)](https://tcrn.ch/2Vn66Ly)
  </div>
  <br/>
+<div align="center">
  (Timestamp : [57:40] - our presentation)
+ </div>
 <br/>
 
 

@@ -38,7 +38,7 @@ Therefore, we've developed easy to use and interactie supply chain management ap
 <br/>
 
 <br/>
-[Terminus - source code](https://gitlab.com/techcrunch-hackathon-at-vivatech-19/eramet/f/terminus.git)
+[Terminus - source code](https://github.com/averagemarcin/Hackathons/tree/master/VivaTech-2019/Terminus-sourcecode)
 <br/>
 
 

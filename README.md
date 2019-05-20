@@ -52,7 +52,8 @@ Therefore, we've developed easy to use and interactie supply chain management ap
 
 
 <div align="center">
- <b>Related app presentation video on TC</b>  [![Short app presentation](https://github.com/averagemarcin/Hackathons/blob/master/Hackathon2.png)](https://tcrn.ch/2Vn66Ly)
+ <b>Related app presentation video on TC</b> 
+(https://github.com/averagemarcin/Hackathons/blob/master/Hackathon2.png)](https://tcrn.ch/2Vn66Ly)
 </div>
 
 

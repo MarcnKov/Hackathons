@@ -48,7 +48,7 @@ Therefore, we've developed easy to use and interactie supply chain management ap
 
 <br/>
  
-<div style=""><img src ="https://github.com/averagemarcin/Hackathons/blob/master/Team2.jpg" /></div>
+<div style=""><img src ="https://github.com/averagemarcin/Hackathons/blob/master/VivaTech-2019/TeamTerminus.jpg" /></div>
 <div align="center">
  <b> Artem, Me</b>
 </div>
